@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":"AAAA;EACE,aAAa;EACb,uBAAuB;EACvB,mBAAmB;EACnB,aAAa;EACb,qBAAqB;AACvB","sources":["webpack://webpack_3_work/./src/components/App.css"],"sourcesContent":[".container {\r\n  display: flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  height: 400px;\r\n  background-color: red;\r\n}\r\n"],"names":[],"sourceRoot":""}
